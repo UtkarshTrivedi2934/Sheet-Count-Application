@@ -1,7 +1,7 @@
 # Sheet-Count-Application
 *How to run?*
 - Install requirements by running command
-  **pip install -r requirements.txt**
+  - **pip install -r requirements.txt**
 - Run the script by
   - **streamlit run app.py**
 - Upload and Process an Image.
