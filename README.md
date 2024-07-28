@@ -1,2 +1,8 @@
 # Sheet-Count-Application
- task was to develop an application that automates the counting of sheet stacks in a manufacturing plant. 
+*How to run?*
+- Install requirements by running command
+  pip install -r requirements.txt
+- Run the script by
+  streamlit run app.py
+- Upload and Process an Image.
+  That's it! You should now have a working application for counting sheets using image processing techniques with OpenCV and Streamlit.
